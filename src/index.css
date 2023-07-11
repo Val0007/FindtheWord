@@ -108,7 +108,7 @@ h1 {
   color: black;
 }
 .modal div {
-  max-width: 480px;
+  max-width: 350px;
   background: #fff;
   padding: 40px;
   border-radius: 10px;
@@ -153,6 +153,7 @@ h1 {
   border:none;
   background-color: white;
   cursor: pointer;
+  color:black;
 }
 
 .login input{
